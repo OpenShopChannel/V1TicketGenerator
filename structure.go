@@ -1,4 +1,4 @@
-package v1Ticket
+package V1TicketGenerator
 
 import (
 	"github.com/wii-tools/wadlib"

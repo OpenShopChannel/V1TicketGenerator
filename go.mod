@@ -1,4 +1,4 @@
-module github.com/OpenShopChannel/v1Ticket
+module github.com/OpenShopChannel/V1TicketGenerator
 
 go 1.19
 
